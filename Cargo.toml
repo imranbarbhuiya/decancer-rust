@@ -7,5 +7,5 @@ edition = "2021"
 
 [dependencies]
 unicode-normalization = "0.1.23"
-regex = "1"
+regex = "1.10.4"
 unidecode = "0.3.0"
